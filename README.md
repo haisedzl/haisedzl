@@ -3,5 +3,4 @@
 - 🌱 I'm looking to learn more to become a Front End Developer
 
 
-Languages and Tools:
 
